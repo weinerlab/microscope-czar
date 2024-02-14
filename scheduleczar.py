@@ -3,7 +3,7 @@
 # of a microscope slot on the calendar and a second that sends an email if certain timing conditions are met based on the current time 
 # and the appointment start time.
 #
-# This script is meant to run as an hourly cron job or something similar
+# This script is meant to run as an hourly cron job or something similar (see czar.sh)
 # 
 # Setting up the google calendar API requires a google cloud account and the app must be registered. I pay a few cents per month for this 
 # see here for some semi-useful info: https://developers.google.com/calendar/api/quickstart/python
